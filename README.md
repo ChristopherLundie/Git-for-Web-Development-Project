@@ -22,3 +22,4 @@ Welcome to day 1 at BloomTech, today we are going to spend time setting up your 
 ## Submission Instructions 
 
 Please submit your project via codegrade by following [these instructions](https://bloomtech.notion.site/BloomTech-Git-Flow-Step-by-step-269f68ae3bf64eb689a8328715a179f9) See part 1, submitting an assignment without codegrade/ submit with pull request URL
+-Christopher Lundie
